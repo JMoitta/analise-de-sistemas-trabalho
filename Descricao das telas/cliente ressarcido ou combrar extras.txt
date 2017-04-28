@@ -1,0 +1,5 @@
+crie uma tela que o atendente posso ressarci o cliente ou combrar extras.
+o atendente solicita o CPF do cliente informa ao sistema e clica em buscar
+se o cliente tiver que ser ressarcido o sistema mostra a janela com opcao deposito bancario ou em dinheiro
+	. deposito bancario: pede os dados bancario do cliente (banco, agencia, conta) e deposito o dinheiro.
+	. em dinheiro: imprime um recebo para cliente e outro para empresa.
