@@ -1,0 +1,2 @@
+crei uma tela que o gerente posso tirar veiculos antigos ou acidentados da frota.
+O gerente pode selecionar marcar modelo ano e informar a placa e o estado - cidade para tirar um veiculo da frota.
