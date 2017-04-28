@@ -1,0 +1,8 @@
+crei um tela em que o garagista informe:
+
+	1 - placa do veiculo;
+	2 - cidade e estado do veiculo;
+	3 - data e hora da devolucao;
+	4 - quilometragem em que se encontrava.
+	5 - um campo de texto em area para descrever a situacao do veiculo (Exemplo: vidro quebrado, farol nao funciona)
+	6 - e um campo para receber o valor danos ao veiculo (Caso nao tenha nenhum dano no veiculo ele pode receber valor $0,00
