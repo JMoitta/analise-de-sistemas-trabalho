@@ -1,0 +1,3 @@
+crei uma tela que o gerente posso atribuir valor a uma locacao de veiculo:
+	1 - o gerente pode selecionar a marca o modelo e ano.
+	2 - escolher um tempo em dias e atribuir um valor a ele.
